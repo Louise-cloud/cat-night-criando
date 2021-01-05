@@ -1,0 +1,20 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/Louise-cloud/cat-night-criando",
+  "authors": [
+    "louise <silvalouise323@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
